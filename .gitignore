@@ -32,6 +32,7 @@ build/
 .idea/copyright/profiles_settings.xml
 .idea/encodings.xml
 .idea/misc.xml
+.idea/caches/
 .idea/modules.xml
 .idea/codeStyleSettings.xml
 .idea/scopes/scope_settings.xml
