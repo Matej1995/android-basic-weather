@@ -84,4 +84,8 @@ com_crashlytics_export_strings.xml
 .Spotlight-V100
 .Trashes
 ehthumbs.db
+<<<<<<< HEAD
 Thumbs.db
+=======
+Thumbs.db
+>>>>>>> f2fd03bd15505bae1224016d6d71f99a3f3046ee
